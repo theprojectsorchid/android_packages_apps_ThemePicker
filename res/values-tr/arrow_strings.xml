@@ -18,8 +18,8 @@
     <!-- Color section -->
     <string name="wallpaper_color_tab">Duvar kağıdı renkleri</string>
     <string name="wallpaper_color_title">Duvar kağıdı rengi</string>
-    <string name="preset_color_tab">Basit renkler</string>
-    <string name="color_changed">Renk değiştirildi</string>
+    <string name="preset_color_tab">Temel renkler</string>
+    <string name="color_changed">Renk değişti</string>
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Simge Önizlemesi</string>
     <string name="icon_pack_title">Sistem simge paketleri</string>

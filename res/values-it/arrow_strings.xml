@@ -16,11 +16,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Color section -->
-    <string name="wallpaper_color_tab">Wallpaper colors</string>
-    <string name="wallpaper_color_title">Wallpaper color</string>
-    <string name="preset_color_tab">Basic colors</string>
-    <string name="color_changed">Color changed</string>
+    <string name="wallpaper_color_tab">Colori dallo sfondo</string>
+    <string name="wallpaper_color_title">Colore dallo sfondo</string>
+    <string name="preset_color_tab">Colori di base</string>
+    <string name="color_changed">Colore modificato</string>
     <!-- Icon's section -->
-    <string name="icon_preview_card_content_description">Icon Preview</string>
-    <string name="icon_pack_title">System icon packs</string>
+    <string name="icon_preview_card_content_description">Anteprima icona</string>
+    <string name="icon_pack_title">Pacchetti icone di sistema</string>
 </resources>
