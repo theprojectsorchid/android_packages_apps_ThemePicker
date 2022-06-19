@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Voorvertoning pictogram</string>
     <string name="icon_pack_title">Systeem pictogrammen</string>
+    <!-- Font's section -->
+    <string name="font_title">Systeemlettertype</string>
+    <string name="font_preview_card_content_description">Lettertype Voorbeeld</string>
 </resources>

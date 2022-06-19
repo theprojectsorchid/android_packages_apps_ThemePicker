@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Tampilan ikon</string>
     <string name="icon_pack_title">Paket ikon sistem</string>
+    <!-- Font's section -->
+    <string name="font_title">Font Sistem</string>
+    <string name="font_preview_card_content_description">Pratinjau Font</string>
 </resources>

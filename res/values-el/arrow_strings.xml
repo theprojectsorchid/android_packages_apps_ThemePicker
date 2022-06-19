@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Προεπισκόπηση Εικονιδίου</string>
     <string name="icon_pack_title">Πακέτα εικονιδίων συστήματος</string>
+    <!-- Font's section -->
+    <string name="font_title">Γραμματοσειρές Συστήματος</string>
+    <string name="font_preview_card_content_description">Προεπισκόπηση Γραμματοσειράς</string>
 </resources>

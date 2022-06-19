@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Podgląd ikon</string>
     <string name="icon_pack_title">Pakiety ikon systemu</string>
+    <!-- Font's section -->
+    <string name="font_title">Czcionki systemowe</string>
+    <string name="font_preview_card_content_description">Podgląd czcionki</string>
 </resources>

@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Pré-visualização do ícone</string>
     <string name="icon_pack_title">Pacotes de ícones do sistema</string>
+    <!-- Font's section -->
+    <string name="font_title">System Fonts</string>
+    <string name="font_preview_card_content_description">Font Preview</string>
 </resources>

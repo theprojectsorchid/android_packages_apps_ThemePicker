@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Предпросмотр значка</string>
     <string name="icon_pack_title">Наборы системных иконок</string>
+    <!-- Font's section -->
+    <string name="font_title">Системные шрифты</string>
+    <string name="font_preview_card_content_description">Предпросмотр шрифта</string>
 </resources>

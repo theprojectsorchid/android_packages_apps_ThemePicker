@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Попередній перегляд значка</string>
     <string name="icon_pack_title">Набір системних іконок</string>
+    <!-- Font's section -->
+    <string name="font_title">System Fonts</string>
+    <string name="font_preview_card_content_description">Font Preview</string>
 </resources>

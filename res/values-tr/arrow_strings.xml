@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Simge Önizlemesi</string>
     <string name="icon_pack_title">Sistem simge paketleri</string>
+    <!-- Font's section -->
+    <string name="font_title">Sistem yazı tipi</string>
+    <string name="font_preview_card_content_description">Yazı tipi önizlemesi</string>
 </resources>

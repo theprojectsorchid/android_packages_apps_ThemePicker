@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Náhľad ikony</string>
     <string name="icon_pack_title">Balíčky ikon systému</string>
+    <!-- Font's section -->
+    <string name="font_title">Systémové písma</string>
+    <string name="font_preview_card_content_description">Náhľad písma</string>
 </resources>

@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">图标预览</string>
     <string name="icon_pack_title">系统图标包</string>
+    <!-- Font's section -->
+    <string name="font_title">系统字体</string>
+    <string name="font_preview_card_content_description">预览字体</string>
 </resources>

@@ -23,4 +23,7 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Symbolvorschau</string>
     <string name="icon_pack_title">System Icon-Pakete</string>
+    <!-- Font's section -->
+    <string name="font_title">Systemschriftarten</string>
+    <string name="font_preview_card_content_description">Schriftvorschau</string>
 </resources>
