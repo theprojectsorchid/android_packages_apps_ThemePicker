@@ -16,14 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Color section -->
-    <string name="wallpaper_color_tab">Використовувати Кольори Шпалер</string>
-    <string name="wallpaper_color_title">Колір шпалер</string>
-    <string name="preset_color_tab">Основні кольори</string>
-    <string name="color_changed">Колір змінився</string>
+    <string name="wallpaper_color_tab">رنگ های تصویر زمینه</string>
+    <string name="wallpaper_color_title">رنگ تصویر زمینه</string>
+    <string name="preset_color_tab">رنگ های پایه</string>
+    <string name="color_changed">رنگ عوض شد</string>
     <!-- Icon's section -->
-    <string name="icon_preview_card_content_description">Попередній перегляд значка</string>
-    <string name="icon_pack_title">Набір системних іконок</string>
+    <string name="icon_preview_card_content_description">پیش نمایش آیکون</string>
+    <string name="icon_pack_title">بسته های آیکون سیستم</string>
     <!-- Font's section -->
-    <string name="font_title">Системні шрифти</string>
-    <string name="font_preview_card_content_description">Попередній перегляд шрифту</string>
+    <string name="font_title">فونت های سیستم</string>
+    <string name="font_preview_card_content_description">پیش نمایش فونت</string>
 </resources>

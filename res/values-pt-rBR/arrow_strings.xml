@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Color section -->
-    <string name="wallpaper_color_tab">Usar cores do papel de parede</string>
+    <string name="wallpaper_color_tab">Cores do papel de parede</string>
     <string name="wallpaper_color_title">Usar cores do papel de parede</string>
     <string name="preset_color_tab">Cores básicas</string>
     <string name="color_changed">Cor alterada</string>
@@ -24,6 +24,6 @@
     <string name="icon_preview_card_content_description">Pré-visualização do ícone</string>
     <string name="icon_pack_title">Pacotes de ícones do sistema</string>
     <!-- Font's section -->
-    <string name="font_title">System Fonts</string>
-    <string name="font_preview_card_content_description">Font Preview</string>
+    <string name="font_title">Fontes do sistema</string>
+    <string name="font_preview_card_content_description">Visualização de fonte</string>
 </resources>
