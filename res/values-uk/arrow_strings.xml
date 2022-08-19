@@ -16,13 +16,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Color section -->
-    <string name="wallpaper_color_tab">Використовувати Кольори Шпалер</string>
+    <string name="wallpaper_color_tab">Використовувати кольори шпалер</string>
     <string name="wallpaper_color_title">Колір шпалер</string>
     <string name="preset_color_tab">Основні кольори</string>
-    <string name="color_changed">Колір змінився</string>
+    <string name="color_changed">Колір змінено</string>
     <!-- Icon's section -->
-    <string name="icon_preview_card_content_description">Попередній перегляд значка</string>
-    <string name="icon_pack_title">Набір системних іконок</string>
+    <string name="icon_preview_card_content_description">Попередній перегляд іконки</string>
+    <string name="icon_pack_title">Набори системних іконок</string>
     <!-- Font's section -->
     <string name="font_title">Системні шрифти</string>
     <string name="font_preview_card_content_description">Попередній перегляд шрифту</string>
