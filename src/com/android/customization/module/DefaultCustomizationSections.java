@@ -52,9 +52,6 @@ public final class DefaultCustomizationSections implements CustomizationSections
                 activity, wallpaperColorsViewModel, lifecycleOwner, savedInstanceState,
                 sectionNavigationController));
 
-        // Dark/Light theme section.
-        sectionControllers.add(new DarkModeSectionController(activity,
-                lifecycleOwner.getLifecycle()));
 
         // Themed app icon section.
         sectionControllers.add(new ThemedIconSectionController(
@@ -69,10 +66,7 @@ public final class DefaultCustomizationSections implements CustomizationSections
         sectionControllers.add(new IconPackSectionController(
                 IconPackManager.getInstance(activity, new OverlayManagerCompat(activity)), sectionNavigationController));
 
-        // Font selection section.
-        sectionControllers.add(new FontSectionController(
-                FontManager.getInstance(activity, new OverlayManagerCompat(activity)), sectionNavigationController))
-;
+
         return sectionControllers;
     }
 }
